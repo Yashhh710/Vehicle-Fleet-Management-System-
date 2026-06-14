@@ -253,8 +253,6 @@ Vehicle [1] restored to Mumbai_CST | Trips: 3
 
 ## 10 Screenshots
 
-> Add screenshots of your terminal here after running the program.  
-> Suggested captures:
 > - Program startup and menu
 <img width="1067" height="180" alt="Image" src="https://github.com/user-attachments/assets/f6a38b90-2486-429a-b74a-f69860589ce7" />            
 > - `Show Vehicles` output (aligned table)
